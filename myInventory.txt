@@ -1,0 +1,9 @@
+Eyeshadow
+30.0
+15
+Lipstick
+15.0
+10
+Perfume
+45.0
+10
